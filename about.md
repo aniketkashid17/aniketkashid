@@ -8,7 +8,7 @@ Hey Y'all! My Name is Aniket Kashid.
 
 ## Brief Intro
 I'am intrested in Engineering and Philosphy. I jokingly describe myself a connecting link between
-a nerd and a cool guy. My interests play around tech and computers, writting blogs, rocket engines (specially Russian),
+a nerd and a cool guy. My interests play around tech and computers, writting blogs, rocket engines (specially soviets),
 watching F1, reading a hell lot of books, Philosophy.
 
 
