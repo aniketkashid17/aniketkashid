@@ -9,7 +9,7 @@ Let's dive into Quantum Mania.
 
 Computers were invented to solve complex mathematical problems which were solved by humans with pen and paper which was quite a breath taking task. So let us imagine we live in a mathematical world, where moving around is equivalent to solving math problems. So first when humans were solving problems on there own with pen and paper, we were moving in the math world on our own legs. When early computers were invented we started horse riding (believe me these early computers were like a blue whale! f huge). And when modern computers came into play we started moving around in a car.
 
-![Make the picture more natural](https://github.com/aniketkashid17/aniketkashid/blob/main/assets/images/one.jpg)
+![Quantum Computing](https://github.com/aniketkashid17/aniketkashid/blob/main/assets/images/one.jpg)
 
 Obviously, now everyone will think that using quantum computers will be like using a super car (certainly not DC Avanti, its not a super car!) or a Jet. But wait, Quantum computers are not that. Its the biggest misconception that people have about quantum computing, it is though faster than our traditional computers but only in certain fields of mathematics.
 
