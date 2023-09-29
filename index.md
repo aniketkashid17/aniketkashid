@@ -2,8 +2,8 @@
 layout: home
 ---
 
-Welcome to the **Aniket** blog.
+Welcome to my personal blog.
 
-# Max Base
+# Aniket Kashid
 
-Visit my new website at [MaxBase.org](https://maxbase.org/)
+
