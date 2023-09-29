@@ -12,8 +12,8 @@ a nerd and a cool guy. My interests play around reading a hell lot of books, roc
 watching F1, Philosophy.
 
 
-#### “I would rather die of passion than of boredom.”
-                                         - Vincent Van Gogh
+**“I would rather die of passion than of boredom.”**
+                                      - Vincent Van Gogh
 
 
 ## Education
