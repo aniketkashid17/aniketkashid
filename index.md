@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to the **Max** blog.
+Welcome to the **Aniket** blog.
 
 # Max Base
 
