@@ -23,10 +23,9 @@ Currently I'am sophomore at an engineering college.
 
 ## Skill
 
-I don't have any skills to show off. But I can say I'am good in logic development, hardwar electronics and have entry level understanding of all 
-techs which I am interested in.
+I don't have any skills to show off. But I can say I'am good in logic development, hardware electronics and have entry level understanding of all 
+techs which I am interested in. I have hands-on experience in languages like C, C++, Python. I am currently focusing on CP.
 
-**"I am smart enough to know, I am dumb enough"**
 
 ## Contact me
 
