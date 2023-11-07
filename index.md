@@ -2,7 +2,7 @@
 layout: home
 ---
 
-#### TANAJI KASHID
+#### ANIKET TANAJI KASHID
 Welcome to my personal Blog
 
 
